@@ -1,0 +1,2 @@
+# calculadora-js [![Build Status](https://travis-ci.org/rafaelsampy/calculadora-js.svg?branch=master)](https://travis-ci.org/rafaelsampy/calculadora-js)
+Calculadora criada no curso de Testes com Jasmine
